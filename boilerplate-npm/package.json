@@ -1,0 +1,24 @@
+{
+  "name": "fcc-learn-npm-package-json",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
+  },
+  "author": "Shu Yang",
+  "description": "project to learn node.js and express",
+  "keywords": [
+    "node",
+    "learning"
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "devDependencies": {
+
+}
